@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../assets/images/logo.png"
 
 const Navbar = () => {
@@ -10,18 +11,18 @@ const Navbar = () => {
                 <div className="flex flex-1 items-center justify-center md:items-stretch md:justify-start">
                     {/* logo */}
                   <div className="flex items-center mr-4">
-                  <a  href="#">
+                  <Link  to="/">
                     <img src={logo} className="h-[120px] w-auto mb-3"  alt="logo" />
-                  </a>
+                  </Link>
                   <span className="hidden md:block text-white text-2xl font-bold ml-2">
                     Winning Spear.
                   </span>
                   </div>
                   <div className="flex items-center md:ml-auto">
                     <div className="flex space-x-2 mr-20">
-                      <a className="text-[#00abf0] md:text-xl hover:bg-gray-900 hover:text-white rounded-md px-3 py-2" href="#">
+                      <Link className="text-[#00abf0] md:text-xl hover:bg-gray-900 hover:text-white rounded-md px-3 py-2" to="/">
                         Home
-                      </a>
+                      </Link>
                       <a className="text-white md:text-xl hover:bg-gray-900 hover:text-[#00abf0] rounded-md px-3 py-2" href="#">
                         Services
                       </a>

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Card from "./Card"
 import { FaUsers, FaLaptop } from 'react-icons/fa'
 const HomeCards = () => {
@@ -17,12 +18,12 @@ const HomeCards = () => {
                   achieve real results. Unleash your brand’s full potential
                   through smarter campaigns.
                 </p>
-                <a
+                <Link
                   className="inline-block bg-[#195783] text-white rounded-lg px-4 py-2 hover:bg-[#00abf0]"
-                  href="#"
+                  to="/courses"
                 >
                   Get Started
-                </a>
+                </Link>
               </Card>
               <Card bg="bg-[#195783]">
                 <div className="flex">
@@ -35,12 +36,12 @@ const HomeCards = () => {
                   learning experiences and thrive in a world of curiosity,
                   creativity, and discovery.
                 </p>
-                <a
+                <Link
                   className="inline-block bg-[#0f3652] text-white rounded-lg px-4 py-2 hover:bg-[#00abf0]"
-                  href="#"
+                  to="/learners"
                 >
                   Get Started
-                </a>
+                </Link>
               </Card>
             </div>
             <div className="m-auto p-4">

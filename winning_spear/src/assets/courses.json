@@ -1,61 +1,61 @@
 [
   {
     "id": 1,
-    "courseTitle": "Sales person mindset",
+    "title": "Sales person mindset",
     "price": 10000,
     "description": "This course is designed to transform your mindset into that of a high-performing sales professional. You'll learn how to build resilience, stay motivated even in tough times, and develop a winning attitude that sets you apart from the competition. Through practical exercises and real-world examples, you'll discover how to stay focused on your goals, overcome mental barriers, and stay positive in the face of rejection. By the end, you'll have the mental tools needed to thrive in any sales environment and consistently outperform your targets."
   },
   {
     "id": 2,
-    "courseTitle": "Understanding buyer's psychology",
+    "title": "Understanding buyer's psychology",
     "price": 10000,
     "description": "In this course, you'll dive deep into the psychology behind buyer behavior. Discover what motivates people to say 'yes,' how emotions drive purchasing decisions, and how you can position your products or services as the perfect solution. We'll cover topics like building trust quickly, understanding buyer fears, and using persuasive language that resonates. By learning these key psychological principles, you'll be able to create deeper connections with your prospects, handle objections smoothly, and ultimately close more deals without being pushy or aggressive."
   },
   {
     "id": 3,
-    "courseTitle": "Perfect sales system",
+    "title": "Perfect sales system",
     "price": 175000,
     "description": "Mastering the sales process is key to consistent success. In this course, you'll learn how to set up a perfect sales system that takes a prospect from stranger to loyal customer. We'll cover prospecting, lead qualification, nurturing strategies, product presentation techniques, and effective closing methods. With templates, scripts, and a proven system to follow, you'll eliminate guesswork from your sales activities. Whether you're an entrepreneur or a sales professional, this course will equip you with a step-by-step blueprint to generate predictable and scalable revenue."
   },
   {
     "id": 4,
-    "courseTitle": "Professional prospecting",
+    "title": "Professional prospecting",
     "price": 12500,
     "description": "Effective prospecting is the foundation of a strong sales pipeline. This course will teach you how to identify ideal prospects, use multiple channels for outreach, and craft compelling initial messages that get responses. Learn how to research your prospects, personalize your approach, and build a list of high-potential leads. You'll also gain skills in handling gatekeepers, using social media for prospecting, and maintaining a consistent outreach rhythm. After completing this course, you'll be equipped to fill your pipeline with quality prospects ready to engage."
   },
   {
     "id": 5,
-    "courseTitle": "Follow up strategies",
+    "title": "Follow up strategies",
     "price": 215000,
     "description": "Following up is an art that most salespeople fail to master. In this course, you'll learn how to build an organized follow-up system that keeps you top of mind without being annoying. Explore the best timing, messaging, and channels for effective follow-ups. We'll show you how to use automated reminders, tailor your communication to each stage of the buyer's journey, and track responses to adjust your approach. With these strategies, you'll drastically improve your conversion rates and close more deals while building stronger relationships."
   },
   {
     "id": 6,
-    "courseTitle": "Mastering the cold call",
+    "title": "Mastering the cold call",
     "price": 197000,
     "description": "Cold calling doesn't have to be terrifying. This course will show you how to confidently pick up the phone and start conversations that matter. You'll learn how to structure your calls, capture attention within the first few seconds, handle common objections, and book meetings without sounding scripted. Using proven techniques and live call examples, you'll master tone, pacing, and language that make prospects want to talk to you. After completing this course, you'll approach cold calls with confidence, energy, and a clear action plan."
   },
   {
     "id": 7,
-    "courseTitle": "Perfecting customer retention and conversion",
+    "title": "Perfecting customer retention and conversion",
     "price": 62500,
     "description": "Acquiring a customer is just the beginning, keeping them is where real success happens. This course teaches you how to deliver outstanding customer experiences that boost retention and drive repeat business. Learn how to onboard new customers effectively, set up loyalty programs, proactively address issues, and turn happy clients into brand advocates. We'll also dive into upselling and cross-selling strategies to maximize customer lifetime value. With the skills you gain here, you'll build lasting relationships and grow your business sustainably and profitably."
   },
   {
     "id": 8,
-    "courseTitle": "Incoming call mastery",
+    "title": "Incoming call mastery",
     "price": 86000,
     "description": "Every incoming call is a potential sales opportunity. In this course, you'll learn how to handle incoming calls professionally and convert inquiries into committed customers. Discover techniques for greeting callers warmly, asking the right questions to uncover needs, delivering compelling value propositions on the spot, and smoothly transitioning to closing the sale. We'll also cover call tracking, recording best practices, and follow-up strategies to maximize every interaction. After this course, you'll have the skills to turn every phone call into measurable business results."
   },
   {
     "id": 9,
-    "courseTitle": "Rules of success",
+    "title": "Rules of success",
     "price": 13700,
     "description": "Success leaves clues, and this course gathers them all for you. You'll study the habits, mindset, and daily routines of highly successful people across different industries. Learn how to set powerful goals, maintain laser focus, build discipline, and stay resilient through setbacks. This course will give you actionable steps to immediately start changing your behavior and thinking patterns to match those of top performers. Whether you're aiming for personal, academic, or career success, this course will become your roadmap to achieving your dreams."
   },
   {
     "id": 10,
-    "courseTitle": "Negotiations",
+    "title": "Negotiations",
     "price": 256900,
     "description": "Negotiation is a critical life skill, not just a sales tactic. In this course, you'll learn the principles of successful negotiation including preparation techniques, building rapport, identifying win-win solutions, and closing deals that satisfy both parties. We'll walk through different negotiation styles and how to adapt based on who you're dealing with. Learn how to handle tough negotiators, manage emotions during high-pressure discussions, and use strategic concessions to reach better outcomes. By the end, you'll feel confident entering any negotiation setting and coming out ahead."
   }
